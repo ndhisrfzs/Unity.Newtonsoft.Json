@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.newtonsoft.json",
+  "version": "0.0.1",
+  "unity": "2019.3",
+  "displayName": "newtonsoft json",
+  "keywords": [
+    "json",
+	"newtonsoft"
+  ],
+  "repository": {},
+  "description": "Unity Newtonsoft.Json"
+}
